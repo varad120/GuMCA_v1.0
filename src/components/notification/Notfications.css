@@ -1,0 +1,15 @@
+.center{
+
+    background-color: grey;
+   
+    display: relative;
+    
+}
+
+.card{
+margin-left: 30%;
+color: aliceblue;
+border-bottom: 3px solid rgb(53, 15, 221);
+border-radius: 7px;
+background-color: rgb(5, 39, 39);
+}
