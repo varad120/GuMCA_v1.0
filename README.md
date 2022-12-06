@@ -6,6 +6,7 @@
 
 -   Post like functionality
 -   Mobile responsiveness
+-   EDA using ML
 
 ## Features and Fuctionality
 
@@ -68,6 +69,9 @@
         ```
 
 **That's it our clone is up and running share it now**
+
+## EDA using ML
+Heroku App link https://mdpanalysis.herokuapp.com/
 
 ## Future Plans
 
